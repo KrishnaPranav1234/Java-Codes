@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class G10_PrizeMoney {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int prizeMoney = 0;
+        int pizeMoney = 0;
         
         System.out.println("Enter Your Guesses \n --------------------------");
         
